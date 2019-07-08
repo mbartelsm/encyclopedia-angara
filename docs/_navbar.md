@@ -1,0 +1,9 @@
+- [Home](/)
+- [About](about)
+- │
+- [**History**](/page/History)
+- [**Geography**](/page/Geography)
+- [**People**](/page/People)
+- [**Culture**](/page/Culture)
+- [**Society**](/page/Society)
+- [**Wildlife**](/page/Wildlife)

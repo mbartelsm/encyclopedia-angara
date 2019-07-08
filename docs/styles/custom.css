@@ -1,0 +1,22 @@
+
+button.docsify-tabs__tab {font-family: inherit; font-size: inherit;}
+
+body {
+    font-size: 18px;
+}
+
+.markdown-section ol, .markdown-section p, .markdown-section ul {
+    line-height: 1.8em;
+}
+
+@media screen and (max-width: 1100px) {
+    .markdown-section ol, .markdown-section p, .markdown-section ul {
+    line-height: calc(((100vw - 300px) * 0.016 * 1.125) + 1em);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .markdown-section ol, .markdown-section p, .markdown-section ul {
+    line-height: calc(((100vw) * 0.016 * 1.125) + 1em);
+    }
+}
