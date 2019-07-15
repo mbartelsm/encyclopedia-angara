@@ -5,6 +5,10 @@ body {
     font-size: 18px;
 }
 
+.markdown-section a {
+    font-weight: inherit;
+}
+
 .markdown-section ol, .markdown-section p, .markdown-section ul {
     line-height: 1.8em;
 }
