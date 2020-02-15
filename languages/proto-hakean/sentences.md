@@ -151,8 +151,8 @@
     sat girl little with a kitten by me
 
 51. The child waited at the door for her father.      
-    to wait the child for father her-GEN at the door [^ambiguous]    
-    for wait the child for father her-GEN at the door [^ambiguous]
+    to wait the child for father her-GEN at the door   
+    for wait the child for father her-GEN at the door [^ambiguous1]
 
 52. Yesterday the oldest girl in the village lost her kitten.      
 
@@ -493,4 +493,5 @@
 220. I met a little cottage girl; she was eight years old, she said.      
 
 [^modal]: Should english modal verbs become verbs or adverbs, perhaphs auxiliaries?
-[^ambiguous1]: The english sentence might mean that the girl is waiting for her father to arrive, or it might mean that she is waiting for the sake of her father. This is non ambiguous in Proto-Hakean
+
+[^ambiguous1]: The english sentence might mean that the child is waiting for their father to arrive, or it might mean that they are waiting for the sake of their father. This is non ambiguous in Proto-Hakean.
